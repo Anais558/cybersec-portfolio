@@ -30,4 +30,3 @@ un projet concret par jour pendant 90 jours.
 
 ## Contact
 [![LinkedIn](https://www.linkedin.com/in/ana%C3%AFs-ahossi-bb3180208/)]
-(ton-lien-linkedin)
